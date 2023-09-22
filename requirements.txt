@@ -1,0 +1,31 @@
+# art of code
+black
+flake8
+pylint
+
+# tests
+coverage
+unittest-xml-reporting
+
+# doc
+sphinx
+sphinx-rtd-theme
+
+tensorflow==2.10.0
+jupyter
+joblib==1.0.1
+python-dotenv
+pandas==1.2.4
+pytest
+munch
+numpy==1.23.5
+pyspark
+matplotlib==3.4.3
+statsmodels==0.13.5
+pygam==0.8.0
+pyarrow==8.0.0
+pyodbc
+tqdm
+xgboost
+azure-storage-blob
+scikit-learn==0.24.2
