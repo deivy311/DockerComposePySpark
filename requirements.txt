@@ -23,7 +23,7 @@ pyspark
 matplotlib==3.4.3
 statsmodels==0.13.5
 pygam==0.8.0
-pyarrow==8.0.0
+pyarrow==14.0.1
 pyodbc
 tqdm
 xgboost
